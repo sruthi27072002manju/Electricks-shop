@@ -80,13 +80,13 @@
                                 <span class="input-group-addon">
                                     <i class="now-ui-icons users_circle-08"></i>
                                 </span>
-                                <input type="text" name="username" class="form-control" placeholder="Username">
+                                <input type="text" name="username" class="form-control" placeholder="Type 'username'">
                             </div>
                             <div class="input-group form-group-no-border input-lg">
                                 <span class="input-group-addon">
                                     <i class="now-ui-icons ui-1_lock-circle-open"></i>
                                 </span>
-                                <input type="password" name="password" placeholder="Password" class="form-control" />
+                                <input type="password" name="password" placeholder="Type '12345678'" class="form-control" />
                             </div>
                         </div>
                         <div class="footer text-center">
