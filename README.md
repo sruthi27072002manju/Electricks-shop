@@ -28,6 +28,6 @@ if (mysqli_connect_errno())
 ~~~
 *From the above code you can verify that we have used AZURE DATABASE FOR MYSQL.*
 
-![WEBSITE BOT SCREENSHOT] (/screenshot.jpeg)
+![WEBSITE BOT SCREENSHOT](/screenshot.jpeg)
 
 *This Screenshot shows you that this Ecommerce site with a bot has been created using AZURE QnA Maker and AZURE Bot service*
